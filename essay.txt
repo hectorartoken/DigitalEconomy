@@ -1,0 +1,63 @@
+Over time the digital economy has been recognized around the world to such an extent that it is now the main driver of economic inflation and social stability in the world. It is present all over the world and continues to grow, and it is very important what it is and how it works. Moreover, this new technology has a very high value, but the value is not only what matters, but also its applications in other parts of the economy.
+
+Now technologies such as Big Data, Machine Learning, business models, internet among others, are influencing the economic system, and that also affects science, medicine and even governments. 
+As defined on the internet, the digital economy is the result of various interactions between people, businesses, data, among others super-connected through the internet, computers and the internet of things. 
+
+The digital economy can be good or bad depending on the way it is used, for example, it can destroy jobs in some sectors while creating them in others. This revolution creates new ways of working and means of selling and buying goods and services.  
+
+The digital economy has several characteristics such as: 
+
+Knowledge: The knowledge of how the digital economy works, companies or secondary jobs. 
+
+Digitization: The transfer of huge amounts of knowledge practically. 
+
+Virtualization: Applications that replace traditional work objects. 
+
+Molecularization: Changes traditional work structures to more flexible forms. 
+
+Disintermediation: Facilitating the exchange of information and products directly. 
+
+Convergence: Convergence in technologies related to the digital economy. 
+
+Innovation: Development of new products and services.  
+
+Prosumers: All consumers of digital products offered by Internet content. 
+
+Immediacy: Faster distribution of products. 
+
+Globalization: Companies have greater access to foreign markets. 
+
+Discordance: Exploitation of new technologies. 
+
+The development of the digital economy began with the commercial launch and massification of the Internet just over 20 years ago. The transformation accelerated in the 21st century thanks to the increase in Internet access and the processing and storage capacity of computers. 
+
+Many companies have implemented digital transformations, companies like General Electrics have transformed and now not only manufacture electronic equipment but also platforms and Internet of Things devices capable of monitoring and optimizing various activities. 
+
+The digital economy is creating new companies and sectors where the application of information technologies increases productivity and effectiveness. It is also creating new jobs and driving economic growth and the tertiarization of the economy. 
+
+This new economy also increases economies of scale, in markets not in production; in other words, it facilitates transactions. For example, Netflix, which thanks to online payments and Internet access with high quality video, can offer its product and receive payments practically all over the world.
+
+Industry 4.0 technologies are those that connect the physical and digital worlds and enable intelligent and autonomous systems. There are already many companies using these new technologies and they are the future of new horizons in science. These technologies are divided into nine bases:
+
+Big Data and Machine Learning: This is in the application of real-time data and the collection of massive data. This base includes the Internet of Things and systems such as ERP and CRM.
+
+Horizontal and Vertical Integration: In the installation of multiple production facilities and the flow of data in the business sector.
+  
+Cloud computing: Provides the basis for most advanced technologies - from AI and machine learning to the internet of things - and gives companies the means to innovate.
+ 
+Augmented Reality: Digital content in a real environment, a core concept of Industry 4.0.
+ 
+Industrial Internet of Things: Devices, robots, machinery, equipment, products-using sensors and RFID tags to provide real-time data on their status, performance or location.
+
+3D printing: Provides a wider range of applications, from mass customization to distributed manufacturing. 
+
+Autonomous robots: A new generation of autonomous robots is emerging.
+
+Simulation: A virtual simulation of a real-world machine, product, process or system based on IoT sensor data.
+
+Cybersecurity: Technologies such as machine learning and blockchain, companies can automate threat detection, prevention and response. 
+
+https://en.wikipedia.org/wiki/Digital_economy
+https://www.census.gov/content/dam/Census/library/working-papers/2001/econ/umdigital.pdf
+http://faculty.haas.berkeley.edu/VILLAS/DigitalEconomy6-17-2012.pdf
+https://link.springer.com/book/10.1007%2F978-3-319-49604-7
