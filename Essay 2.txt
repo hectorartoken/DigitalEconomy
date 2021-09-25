@@ -1,0 +1,132 @@
+Team: Jesús Catzín, Héctor Hernández, Walter Vives, Jack Robles
+
+Week03-Unit-1.2-WORLD-IMPACT
+
+General View of the Digital Economy.
+
+Growth of the Digital Economy
+
+To begin with, as we have talked in the previous assignment Digital Economy started in a long time, and it has changed over the time to be able to satisfy the human necessities. We are living through an era of spectacular technological change, any type of digital technologies is becoming faster, more powerful and even cheaper than it used to be. Technological breakthrough has become a central driver of global economy growth and its importance is growing.
+
+In general, Digital Economy has growth from many aspects, such as technology manufacturing sectors including mining, agriculture, constructions, on the other hand it includes the aspects from business perspective including productivity, in which the past 3 decades, it went from 1 million investment to 20 million in GDP.
+
+From other perspective it has improved the availability and capability of computing power demonstrating that the digital technologies are not constrained by geography or industry and that consequently the production of digital technologies and services are truly globalized.
+
+Information and communication technologies (ICT) Indicators
+In fact, the recent grow of the Digital Economy in many fields has developed what we can call the ICT indicators we must consider that some of them changes according to the institutions that register it and over the time they increase.
+
+ICT indicators plays a crucial point now, including policies and strategies on its own growth. These indicators include fields of Computer programming, software, IT, design etcetera because they are a combination of manufacturing and services that capture, transmit and display data and information electronically.
+
+These ICT indicators are divided into:
+
+ICT infrastructure and Access which is usually focused in fixed-telephone, mobile cellular, fixed broadband internet subscriptions among others.
+ICT access and use by households and individuals which is focused into proportion of households with radio, tv, telephone, computer, internet among others.
+ICT access and use by enterprises which is usually focused into proportion of business using computers, internet, or business with a web presence, intranet, receive and placing order over the internet.
+ICT sector and trade in ICT goods which is focused into business sector workforce, gross value added, and percentage of total imports and exports.
+ICT in Education which is focused into the proportion of schools with a radio, television, telephone among other for educational purposes.
+ICT in government which is focused into proportion of employer working in government organization and uses over the network.
+ICT-based business models
+The ICT indicators consequently created the necessity to develop ICT Models to satisfy the needs, some of them are:
+
+Product Innovation and Value Proposition which the main purpose is the creation of value that customers are willing to pay for it. This refers to what business the company is in and what bundle of products and services it offers on the market.
+Customer Relationship which covers all customer-related aspects. This comprises the choice of a firm’s target customers, the channels through which it gets in touch with them and the kind of relationships the company wants to establish with its customers. It is divided in “target customer”, “channels” and “relationships”.
+Among other models there are: Infrastructure Management and Financial Aspects
+Strategic Data Analysis
+These strategies start with the data acquisition and analysis that are critical elements in strategic measurement and control system effectiveness. It usually contends “strategic controllers” that should undertake such a process in order to understand the underlying driers of strategic results. However, no matter what, these aim to the business to know and on what customers are spending their money. These will vary depending upon your place and objective, some examples of these are:
+
+Category Management/sku Rationalization
+Consumer Decision Tree/Product Attributes
+SPPD – Sales Per Point of Distribution
+ACV – All Commodity Volume
+Power Ranking
+Gap Analysis – Prioritized
+Average SKU – Straight or Blended
+Promotional Planning & Assessment This is a key element both in developing the plan, and in regularly monitoring progress. At the end, it tells us what is happening at the ground level.
+ICT patents
+The ICT patents refers to the patents which have been granted in order to implement a specific industry standard which are crucial in the ICT industry in order to promote innovation. They basically look to protect any type of system that has relation with the ICT sector. Due the fact that it has become so useful, it has increased drastically at least 30%, and it includes the areas of computers, the Internet (websites, blogs and emails), live broadcasting technologies (radio, television and webcasting), recorded broadcasting technologies (podcasting, audio and video players and storage devices) and telephony (fixed or mobile, satellite, videoconferencing, etc.). The most protect areas are high-speed network, mobile communication, digital security, sensor and device networks, high-speed computing among others.
+
+ICT impact in other areas like Telecommunications, Health, Agriculture, Science, Energy.
+Telecommunications: In this area it has had a positive effect on the way we communicate, as it has made it easier & cheaper. For example, communicating without meeting face to face, a lot of people tend to just communicate over the internet or by texting as this is now easier than arranging to meet up.
+Health: In health these systems can can promote patient-centered healthcare, improve quality of care, and educate health professionals and patients. In general, improve their practice. It also allows to easy to deliver treatment and care for the patient who is located anywhere around the world.
+Agriculture: It has helped to farmers to focus, search, and extract useful and up-to-date market information from social and business networks. It also heled to make decision easily than before and reduce time. In general, it increased in productivity.
+Science: It has impacted in teaching and learning to students, assist with collecting and analyzing data, increasing global awareness, it also allows to simulate and interactive explore and test experiment to reduce cost among others.
+Historical Stages of the Development of Technology
+Technology has been the essential tool of the modernity because we have built or made advanced devices that have helped us in the development of humanity. However, we have gone through several historical stages to arrive at the technology we know today. There are 31 stages now, and they are as follows:
+
+3.3 million years ago: The first tools
+
+1 million years ago: Fire
+
+20,000 to 15,000 years ago: Neolithic Revolution
+
+6000 BCE: Irrigation
+
+4000 BCE: Sailing
+
+1200 BCE: Iron
+
+850 CE: Gunpowder
+
+950: Windmill
+
+1044: Compass
+
+1250-1300: Mechanical clock
+
+1455: Printing
+
+1765: Steam engine
+
+1804: Railways
+
+1807: Steamboat
+
+1826/27: Photography
+
+1831: Reaper
+
+1844: Telegraph
+
+1876: Telephone and Internal-combustion engine
+
+1879: Electric light
+
+1885: Automobile
+
+1901: Radio
+
+1903: Airplane
+
+1926: Rocketry
+
+1927: Television
+
+1937: Computer
+
+1942: Nuclear power
+
+1947: Transistor
+
+1957: Spaceflight
+
+1974: Personal computer and Internet
+
+2012: CRISPR
+
+2017: Artificial intelligent
+
+Relevant Indicators of the Digital Economy.
+The digital economy is measured in various ways such as its independence or its great impact on new technologies. However, there are four important indicators that define the digital economy based on its adaptation nowadays.
+
+Infrastructure, this indicator covers the development of their security and access to fixed networks for further navigation between networks. It is also in charge of server infrastructure and the internet of things.
+
+Empowering society, this indicator embarks on the use of the digital economy in people's lives, i.e. how to use it, access, interact, among other services. In addition, it is responsible for sending information on internet usage, financial inclusion, among others, to users.
+
+Innovation and adoption of technology, this indicator covers the innovation of the new tools of the digital economy such as financial models, access to technologies such as ICT and others that are part of the digital economy.
+
+Employment and growth, this indicator looks for opportunities within the digital economy based on your finances and good management of the economy, it also learns from your movements and use of technology.
+
+Impact of ICTs in other areas.
+As described above, ICT is the set of information, communication and technology that complement modern computing and large enterprises. In fact, almost all companies rely on the use of ICT because it is very practical and innovative in several aspects.
+
+In areas such as business they have impacts on the development of new tools for the optimization of processes and services that this can promote, Similarly, many areas prefer the use of ICT because they are key in the economy and special services. Therefore, in developing countries, it is convenient to use ICT for the benefit of improving digital aspects such as the management of the Internet, computers, digital orders, among others.
