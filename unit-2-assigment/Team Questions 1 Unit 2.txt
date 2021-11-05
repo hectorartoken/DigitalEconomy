@@ -1,0 +1,104 @@
+Jesús Catzin
+
+1. How is AI-based solutions for managerial tasks used?
+
+A: In Unilever’s talent acquisition process, in Netflix’s decisions
+regarding movie plots, directors, and actors and and in Pfizer’s drug
+discovery and development activities
+
+2. What are the 5 different aspects to describe Big Data?
+
+A: Volumen, Variety, Velocity, Value, Veracity.
+
+
+3. How is blockchain used to improve Big Data environments?
+
+A: The blockchain can provide robustness, security, transparency and scalability to big data systems, enabling a wide range of threats to be addressed. of threats. This would include everything from information leaks to malicious manipulation of content.
+
+4. What are the benefits of hyperledger to the digital economy?
+
+A: Security and robustness are the keys to enable enterprise-class blockchains to evolve, and 
+provide the critical infrastructure for next-generation business networks. 
+
+5. How can digital technologies contribute to financial development?
+
+A: Reduce  information  asymmetry,  improve  service efficiency, and reduce access costs—especially for the most vulnerable customers, including SMEs. 
+
+6. What is the impact of digital currencies?
+
+A: One impact is the reduction of cash, like the cost of moving physical money from one location to another and the security costs associates with it.
+
+7. What problems are caused by the new digital technologies?
+
+A: It is important to note that new digital technologies can reduce competition or even encourage monopolies. Traditionally, when a firm (technological or otherwise) achieves considerable market share and has a leading standard platform it may be tempted to abuse its dominant position by restricting competition. 
+
+Héctor Hernández
+
+1. What does automation and augmentation mean in the context of IA?
+
+A: Automation implies that machines take over a human task, augmentation means that humans
+collaborate closely with machines to perform a task.
+
+2. What is the ability of Cloud Computing?
+
+A: It's to virtualize resources allows abstracting hardware, requiring little
+interaction with cloud service providers and enabling users to access terabytes of storage, high processing
+power, and high availability in a pay-as-you-go model.
+
+3. How blockchain benefits the economy?
+
+A: It can be designed as a truly decentralized truly decentralized database without a central
+a central authority. It can, therefore, serve as a hub for trusted exchanges between multiple entities without one having to trust the other, or even an intermediary. This represents a real revolution: in exchange systems historically there has been a need in exchange systems for a trusted intermediary for all the a trusted intermediary on all sides. 
+
+4. What does it mean that the hyperledger is modular?
+
+A: The modular approach enables developers to experiment with different
+types of components as they evolve, and to change individual components without affecting
+the rest of the system. This helps developers to create components that can be combined to
+build distributed ledger solutions well-suited to different requirements. 
+
+
+5. What is the biggest challenge for digital finance in Latin America?
+
+A: One of the biggest challenges facing the financial sector in LAC countries is improving access to financing for the productive sector.  This is key to increasing productivity and, consequently, economic growth and  development.
+
+6. What would be a relevant impact of Digital currencies?
+
+A: It would impact in the easy of flow of money between government and individual. In addition, it would allow to have more transparency for informal economy.
+
+7. In the fiscal area, what is the challenge for the state in the new era of the digital economy?
+
+A: In the fiscal area, the challenge facing the State is how to tax online business. Some large technological firms have managed to reduce their tax bill by placing their sales in countries with lower taxes instead of the country where the buyer is actually making the transaction. 
+
+Danilo Cuevas
+
+1. How does IA impact the digital economy?
+
+A: Organization that take this approach will and have been scoring quick wins, generate value faster and most important achieve long-term success 
+
+
+2. What basic services does Cloud Computing provide?
+
+A:  Infrastructure as a Service (IaaS); Platform as a Service (PaaS); and Software as a Service (SaaS)
+
+
+3. What is the benefit of blockchain-based cryptocurrencies?
+
+A: It eliminates the need for a central authority. The criteria for the issuance of new monetary units is pre-fixed. In the case of Bitcoin, for example, new currency is issued each time a block is mined (approximately every 10 minutes) and is placed in the possession of the node that mined it. 
+
+4. Could Hyperledger create its own cryptocurrency?
+
+A: The design philosophy includes the capability to create a token used to manage digital objects, which may represent currencies, although this is not required for the network to operate. 
+
+5. What are the different regulation and control schemes that can be applied in financial transactions?
+
+A: Penetrative  regulation, Global  or  general  regulation, Collaborative regulation, Ongoing and consistent regulation and
+Innovative  regulation. 
+
+6. Examples of Digital currencies
+
+A: Some examples of these are Ethereum, Litecoin, Cardano, Polkadot among others.
+
+7. What would be an example of technical obstacles in Latin America with Bitcoin?
+
+A: One example would be the case of El Salvador where the country adopted the legal tender of the bitcoin but that only a fraction of the central American nation’s businesses has taken a bitcoin payment and technical problems have plagued the government’s cryptocurrency. 
