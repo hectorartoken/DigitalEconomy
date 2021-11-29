@@ -123,3 +123,128 @@ In general, the goal of this framework for digital economy is to identify and re
 [8] GSMA. (2018, December). A new regulatory framework for the digital ecosystem. Retrieved November 24, 2021, from https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2016_Report_NewRegulatoryFrameworkForTheDigitalEcosystem_ExecSummary_English.pdf
 [9] Code of Ethics | RAPS. (n.d.). RAPS. Retrieved November 24, 2021, from https://www.raps.org/who-we-are/code-of-ethics#:%7E:text=they%20are%20unavoidable.-,Honesty,when%20comment%20is%20ethically%20required.
 [10] https://www.darden.virginia.edu/sites/default/files/inline-files/Chap%205_Fostering%20the%20Economic%20and%20Social%20Benefits%20of%20ICT.pdf
+
+## Questions
+
+Héctor Hernández
+
+1. Why is it importat the context in data?
+
+Because Data is a known object that needs to be interpreted and meaningful. Context
+can be thought of as data's representational system; such a system includes a common
+vocabulary and set of relationship between components.
+
+2. What are they the benefits in the data of organizations when they do changes in technology?
+
+The changes have enabled organizations to use data in new ways to create products,
+share information, create knowledge, and improve organizational sucess.
+
+3. In your own words, why is data governance important?
+
+Data governance is important in almost every industry as it is in charge of guiding everything related to data. That can be from data quality to data security, which is a great asset nowadays for all companies.
+
+4. Do you consider data engineering to be appropriate for a data governance profile?
+
+I consider that not entirely, although there are certain characteristics that a data engineer can meet the profile satisfies, but there are others that do not, for example in data security and document and content management are some points that I consider that a data engineer should improve. However, a data engineer can fulfill more with this profile than a business or administration graduate.
+
+5. Which are the three main data ethics considered as core concepts?
+
+The are three parts the first "Impact on people" because the data represents characteristics of individuals and it is used to make decisions. 
+Second: Potential for misusing which the miss data can negatively affect people and organizations. 
+Last the "economic value of data", which includes the fact that data has economic value is the people knows how to use it
+
+6. Why does organizations have to protect data based on largely laws and regulatory requeriments?
+
+It is because data represents people (customers, employees, patients, etc), and that means that data management professional should recognize that there are tehical as well as legal reasosons to protect data.
+
+
+Jesús Catzín
+
+1. How is it recomendable divide the data and information within an organization?
+
+It may be helpful to draw a line between information and data for proposes of clear
+communication about the requirements and expectations of different uses by different stakeholders.
+
+2. What means Asset in context of a organization?
+
+An asset is an economic resource, that can be owned or controlledm an that holds or produces value.
+Assets can be converted to money.
+
+3. In addition to what is mentioned in the book, why do you think people tend to confuse data with information technology?
+
+First, because the use of data as big assets today does not have much time and second, because information technologies have more time, then this may cause people to associate these two concepts.
+
+4. Which data steward profile is closest to a data engineer and why?
+
+Without a doubt one would be the technical data manager, just by reading the short description of what this profile should do, which has several similarities with a data engineer.
+
+5.  How the Beneficence principle is applied in the principles for Data?
+
+In a summary, it focus in the aspect of identifying stakeholders and consider the outcomes of data processing and work to maximize benefit and minimize risk of harm cuased by the process designed.
+
+6. How does the principle of justice is applied in the principles of Data Ethics?
+
+There are many ways to consider, but in summary, it is focused into future-oriented regulation of data processing and respect for the rights to privacy and data protection, including inside ti how the determine personal information processing and last the privacy conscious engineering and design of data processing products and services.
+In general it is summarized as data governance which is a vital tool for ensuring thwese principles are considered in deciding who can do what wich data and under what circumstances processing is appropiate or necessary.
+
+
+Pablo Duarte
+
+1. Why organization rely on data asset?
+
+Thet make more effective decisions and to operate more efficiently.
+
+2. What are the prociples of data managment?
+
+Data is an asset with unique properties, The value of data can and should be expressed
+in economic terms, Managing data means managing the quality of data, It takes Metadata
+to manege data.
+
+3. Do you consider that a career is necessary to be a data steward and why?
+
+Not necessarily, in fact the book mentions that the best data managers are not born, they are made, as long as they help you reduce data-related risks and get more value from your data. however, I believe that a career related to this field can give you an advantage.
+
+4. Why do you think there are almost no or no data governance vacancies in Mexico?
+
+Mainly because small and medium-sized companies are not used to using their data, i.e., they do not see it as an asset. In addition, some companies may ask someone from information technology because it is more common than someone from data governance.
+
+5. Which are the GDPR principles?
+
+Fairness Lawfulness, Transparency, Purpose Limitation, Data Minimization, Accurace, Sorage Limitation, Integrity and Confidentialiy, and Accountability.
+
+6. Do you consider that UPY should teach classes on data ethics, if not and why?
+
+I would say yes, but at least we think this could be a conflict as sometimes when obtaining data maybe it is not done in the most ethical way, for example in kaggle there are times when it is necessary to accept and confirm that the data will not be shared to anyone and anywhere.
+
+
+Danilo Cuevas
+
+1. What are the benefist of high quality data?
+
+Improved customer experience, Higher productivity, Reduced risk, Ability to act on opportunities,
+Increased revenue and Competitive asvantage gained from insights on customers,
+products, processes, and opportunities.
+
+2. What is the propuse of DMBOK Pyramid?
+
+The organization purchases an applications that includes database capabilities
+They will find challengers with the quality of their data.
+Disciplined practices for managing Data Quality, Metadata, and architecture
+require Data Governance thatprovides structural support for data management activities. And
+The organization leverages the benefist of well-managed data and advances its nalytic capabilities.
+
+3. If you had to choose between what is more important, the objectives or the principles of data governance?
+
+Neither of the two is more important, both complement each other. However, if one is to be chosen, it would be the goal in data governance, since in base to this the necessary principles can be developed.
+
+4. According to chapter 3, data governance is done by one person?.
+
+No, due to all that data governance is focused on, it requires a team with different skills to help ensure that the data is risk-free so that it can be used appropriately for the institution or company.
+
+5. Which is the main characteristics of the GDPR principles?
+
+The main characteristics are that these principles are balanced by and support certain qualified rights to the individual and that their data, including the rights to access, rectification of inaccurate data, portability, the right to object to processing of personal data that may cause damage or distress, and erasure.
+
+6. What do you think would be the main problem in Mexico if data laws were enforced or regulated?
+
+In the first instance it would be people's ethics, since today there are laws that Mexicans ignore or do not comply with.
