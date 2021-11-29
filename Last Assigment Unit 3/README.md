@@ -1,7 +1,7 @@
 # Last-assignment
 DIGITAL ECONOMY
 
-Team: Jesús Catzin, Héctor Hernández, Danilo Cuevas, Pablo Duarte
+Team: Jesús Catzin, Héctor Hernández, Danilo Cuevas
 
 Digital and non-digital economy right now have been playing important roles in the society affection how the society itself works, starting from how the public acceptance has been, how it has impacted social networks on information and communication teach among others. 
 
@@ -114,14 +114,23 @@ In general, the goal of this framework for digital economy is to identify and re
 
 ## References
 [1] Manap, Mohammad Radzi & Azman, Hazita & Salman, Ali & Hussin, Supyan & Razak, Norizan & Hashim, MS. (2015). MEASURING READINESS, ACCEPTANCE AND SATISFACTION OF INNOVATIVE DIGITAL ECONOMY: PRELIMINARY FINDINGS. e-Bangi. 10. 23-30.
+
 [2] Flynn, R. (2007). Risk and the Public Acceptance of New Technologies. SpringerLink. https://link.springer.com/chapter/10.1057/9780230591288_1?error=cookies_not_supported&code=eab2b99d-2260-4bf5-8268-534396a444dd
+
 [3] Top Information and Communications Technology (ICT) Skills. (2020, September 15). The Balance Careers. Retrieved November 23, 2021, from https://www.thebalancecareers.com/information-and-communications-technology-skills-4580324
+
 [4] Summary of the Major Laws of the Department of Labor | U.S. Department of Labor. (n.d.). US Deparment. Retrieved November 24, 2021, from https://www.dol.gov/general/aboutdol/majorlaws
+
 [5] Knight, M. (2021, August 25). What Are Data Regulations? DATAVERSITY. Retrieved November 24, 2021, from https://www.dataversity.net/what-are-data-regulations/#
+
 [6] Tannor, P. (2021, August 9). How EU AI Regulations Will Affect Data Science Teams. Deepchecks. Retrieved November 24, 2021, from https://deepchecks.com/how-eu-ai-regulations-will-affect-data-science-teams/
+
 [7] Tellenbach, Bernhard & Rennhard, Marc & Schweizer, Remo. (2019). Security of Data Science and Data Science for Security. 10.1007/978-3-030-11821-1_15.
+
 [8] GSMA. (2018, December). A new regulatory framework for the digital ecosystem. Retrieved November 24, 2021, from https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2016_Report_NewRegulatoryFrameworkForTheDigitalEcosystem_ExecSummary_English.pdf
+
 [9] Code of Ethics | RAPS. (n.d.). RAPS. Retrieved November 24, 2021, from https://www.raps.org/who-we-are/code-of-ethics#:%7E:text=they%20are%20unavoidable.-,Honesty,when%20comment%20is%20ethically%20required.
+
 [10] https://www.darden.virginia.edu/sites/default/files/inline-files/Chap%205_Fostering%20the%20Economic%20and%20Social%20Benefits%20of%20ICT.pdf
 
 ## Questions
@@ -157,6 +166,13 @@ Last the "economic value of data", which includes the fact that data has economi
 
 It is because data represents people (customers, employees, patients, etc), and that means that data management professional should recognize that there are tehical as well as legal reasosons to protect data.
 
+7. Do you consider that a career is necessary to be a data steward and why?
+
+Not necessarily, in fact the book mentions that the best data managers are not born, they are made, as long as they help you reduce data-related risks and get more value from your data. however, I believe that a career related to this field can give you an advantage.
+
+8. Why do you think there are almost no or no data governance vacancies in Mexico?
+
+Mainly because small and medium-sized companies are not used to using their data, i.e., they do not see it as an asset. In addition, some companies may ask someone from information technology because it is more common than someone from data governance.
 
 Jesús Catzín
 
@@ -187,34 +203,15 @@ In a summary, it focus in the aspect of identifying stakeholders and consider th
 There are many ways to consider, but in summary, it is focused into future-oriented regulation of data processing and respect for the rights to privacy and data protection, including inside ti how the determine personal information processing and last the privacy conscious engineering and design of data processing products and services.
 In general it is summarized as data governance which is a vital tool for ensuring thwese principles are considered in deciding who can do what wich data and under what circumstances processing is appropiate or necessary.
 
-
-Pablo Duarte
-
-1. Why organization rely on data asset?
+7. Why organization rely on data asset?
 
 Thet make more effective decisions and to operate more efficiently.
 
-2. What are the prociples of data managment?
+8. What are the prociples of data managment?
 
 Data is an asset with unique properties, The value of data can and should be expressed
 in economic terms, Managing data means managing the quality of data, It takes Metadata
 to manege data.
-
-3. Do you consider that a career is necessary to be a data steward and why?
-
-Not necessarily, in fact the book mentions that the best data managers are not born, they are made, as long as they help you reduce data-related risks and get more value from your data. however, I believe that a career related to this field can give you an advantage.
-
-4. Why do you think there are almost no or no data governance vacancies in Mexico?
-
-Mainly because small and medium-sized companies are not used to using their data, i.e., they do not see it as an asset. In addition, some companies may ask someone from information technology because it is more common than someone from data governance.
-
-5. Which are the GDPR principles?
-
-Fairness Lawfulness, Transparency, Purpose Limitation, Data Minimization, Accurace, Sorage Limitation, Integrity and Confidentialiy, and Accountability.
-
-6. Do you consider that UPY should teach classes on data ethics, if not and why?
-
-I would say yes, but at least we think this could be a conflict as sometimes when obtaining data maybe it is not done in the most ethical way, for example in kaggle there are times when it is necessary to accept and confirm that the data will not be shared to anyone and anywhere.
 
 
 Danilo Cuevas
@@ -248,3 +245,11 @@ The main characteristics are that these principles are balanced by and support c
 6. What do you think would be the main problem in Mexico if data laws were enforced or regulated?
 
 In the first instance it would be people's ethics, since today there are laws that Mexicans ignore or do not comply with.
+
+7. Which are the GDPR principles?
+
+Fairness Lawfulness, Transparency, Purpose Limitation, Data Minimization, Accurace, Sorage Limitation, Integrity and Confidentialiy, and Accountability.
+
+8. Do you consider that UPY should teach classes on data ethics, if not and why?
+
+I would say yes, but at least we think this could be a conflict as sometimes when obtaining data maybe it is not done in the most ethical way, for example in kaggle there are times when it is necessary to accept and confirm that the data will not be shared to anyone and anywhere.
